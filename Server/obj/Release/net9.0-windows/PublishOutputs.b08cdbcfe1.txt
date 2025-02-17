@@ -1,0 +1,5 @@
+C:\Users\mrtns\Documents\Projects\TCPChatUI\Server\bin\Release\net9.0-windows\publish\Server.exe
+C:\Users\mrtns\Documents\Projects\TCPChatUI\Server\bin\Release\net9.0-windows\publish\Server.dll
+C:\Users\mrtns\Documents\Projects\TCPChatUI\Server\bin\Release\net9.0-windows\publish\Server.deps.json
+C:\Users\mrtns\Documents\Projects\TCPChatUI\Server\bin\Release\net9.0-windows\publish\Server.runtimeconfig.json
+C:\Users\mrtns\Documents\Projects\TCPChatUI\Server\bin\Release\net9.0-windows\publish\Server.pdb

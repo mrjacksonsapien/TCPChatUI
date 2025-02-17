@@ -1,0 +1,2 @@
+C:\Users\mrtns\Documents\Projects\TCPChatUI\Client\bin\Release\net9.0-windows\win-x64\publish\Client.pdb
+C:\Users\mrtns\Documents\Projects\TCPChatUI\Client\bin\Release\net9.0-windows\win-x64\publish\Client.exe
