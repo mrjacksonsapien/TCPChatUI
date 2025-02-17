@@ -167,6 +167,14 @@ public class Server
             _ = Task.Run(() => HandleClientAsync(clientSocket));
         }
         
+        await _semaphore.WaitAsync();
+        foreach (var client in clients)
+        {
+            client.Close();
+        }
+        clients.Clear();
+        _semaphore.Release();
+        
         serverSocket.Close();
         OnMessageReceived?.Invoke("Serveur arrêté.");
     }
